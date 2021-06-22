@@ -1,0 +1,19 @@
+.menu {
+    padding-top: 35px;
+    padding-bottom: 25px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .menu1 {
+    padding-top: 35px;
+    padding-bottom: 25px;
+    height: 33px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+.top {
+    margin-top:-20px
+}
+.color {
+    background-color:#DCDCDC;
+}
